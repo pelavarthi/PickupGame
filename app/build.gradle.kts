@@ -7,7 +7,7 @@ plugins {
     alias(libs.plugins.google.services)
 }
 
-val mapsApiKey: String = "AIzaSyC6X8jgwQfGZE2z5RaYn2Wmn56d5kJQkp8"
+val mapsApiKey: String = "HIDDEN"
 
 android {
     namespace = "edu.nd.pmcburne.hwapp.one"
