@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116163617482",
+    "project_id": "mobilefinal-dfc25",
+    "storage_bucket": "mobilefinal-dfc25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116163617482:android:49148c56d635aeab7cca33",
+        "android_client_info": {
+          "package_name": "edu.nd.pmcburne.hwapp.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116163617482-na5mh675kr829rrnkc5hi1pieurnvbrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.nd.pmcburne.hwapp.one",
+            "certificate_hash": "63172bb1babe994fd5f211cb4280fea6f5e73900"
+          }
+        },
+        {
+          "client_id": "116163617482-842hbomnmgfbvi7j1ia35nsbosh330r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCS1jewVn3ak4qlYuFMYeiNcpJ6ZbtLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116163617482-842hbomnmgfbvi7j1ia35nsbosh330r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
